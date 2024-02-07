@@ -1,16 +1,11 @@
 # MOVYXA APPLICATION
+This project is an app to get information about the movie, see the cast and watch trailers.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Images From The Application
+|      **Home Screen**      |          **Menu**         | **Favorite Movie Screen** |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|                           |                           |                           |
+|    **Feedback Screen**    |      **About Screen**     |     **Search Screen**     |
+|                           |                           |                           |
+| **Movie Detail Screen 1** | **Movie Detail Screen 2** | **Watch Trailers Screen** |
+|                           |                           |                           |
